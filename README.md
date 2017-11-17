@@ -1,6 +1,11 @@
 # MakeLyric
-支持qrc、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc、trc、网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式  
+支持qrc、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc、trc、  
+网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式    
+
+
 鉴于有些人实在让人生气，所以不再开源了，只提供编译好的二进制下载。  
+
+**本工具免费不收取任何费用，只此一个渠道发布，其它位置下载的请小心使用。**
 
 ## 更新日志
 
@@ -33,7 +38,8 @@
 
 ## 使用方法 
 
-下载：  
+下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
+
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
@@ -58,7 +64,9 @@
 
 **需要注意的:**  
 * 1、  当为歌词最后一个字的时候请多一按下<右键>或者按下<下键>以便结束本次制作  
-* 2、   暂只支持制作中文歌词,  这点需要特别注意, 否则别说博主坑你们了。  
+* 2、  暂只支持制作中文歌词,  这点需要特别注意, 否则别说博主坑你们了。  
+
+相关截图：  
 
 * 1、填写歌词部分  
 
