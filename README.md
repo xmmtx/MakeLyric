@@ -1,4 +1,4 @@
-# MakeLyric
+# LyricTools
 支持qrc、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc、trc、  
 网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式    
 
