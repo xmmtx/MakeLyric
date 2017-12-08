@@ -59,6 +59,9 @@
 
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
+或者使用百度盘下载
+链接: https://pan.baidu.com/s/1i59wwYT 密码: g5aa
+
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
