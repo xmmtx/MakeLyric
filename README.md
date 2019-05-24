@@ -3,7 +3,7 @@
 网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式    
 
 
-鉴于有些人实在让人生气，所以不再开源了，只提供编译好的二进制下载。  
+鉴于某些人让人很恶心，所以不再开源了，只提供编译好的二进制下载。  
 
 **本工具免费不收取任何费用，只此一个渠道发布，其它位置下载的请小心使用。**
 
@@ -14,6 +14,11 @@
 ## 更新日志
 
 > 
+
+ 2019-05-24  
+    v1.2.4  
+	
+1、修复“精准LRC”时间轴错误问题，感谢网友“边城浪子 <bi******6@qq.com>”的反馈。         
 
  2018-04-29  
     v1.2.3  
@@ -68,8 +73,8 @@
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 或者使用百度盘下载
-链接: https://pan.baidu.com/s/1EbsfzLzJ0FWr_6FM0YOQzw 密码: 4kuj  
-
+链接：https://pan.baidu.com/s/1gJCQEzdtyrUJIY4VAL5EPA  
+提取码：py5c 
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
