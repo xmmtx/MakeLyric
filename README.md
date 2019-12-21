@@ -80,8 +80,9 @@
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 或者使用百度盘下载
-链接：https://pan.baidu.com/s/1gJCQEzdtyrUJIY4VAL5EPA  
-提取码：py5c 
+链接：https://pan.baidu.com/s/1OjYcCap2ZGUAfT1RIlKL9A 
+提取码：rp8i 
+
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
