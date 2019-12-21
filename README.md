@@ -1,5 +1,5 @@
 # LyricTools
-支持qrc(不支持QQ音乐16.5及以后的版本歌词)、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc(不支持QQ音乐16.5及以后的版本歌词)、trc、  
+支持qrc、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc、trc、  
 网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式    
 
 ----  
@@ -22,22 +22,31 @@
 > 
 
  2019-12-21  
+    v1.2.6  
+	
+1、修复不能转换QQ音乐16.5及之后版本歌词问题  
+ 
+
+ 2019-12-21  
     v1.2.5  
 	
 1、修复某些QRC在转换时出错问题，感谢网友“冰河 <gl******d@vip.qq.com>”的反馈。   
 2、优化转换完成后的提示（增加了转换的数量以及转换后的目录）。   
 3、其他优化。       
 
+
  2019-05-24  
     v1.2.4  
 	
 1、修复“精准LRC”时间轴错误问题，感谢网友“边城浪子 <bi******6@qq.com>”的反馈。         
+
 
  2018-04-29  
     v1.2.3  
 	
 1、删除程序依赖库，现只需要单一exe即可运行     
 2、增加“查看加密歌词”功能     
+ 
  
  2017-12-08  
     v1.2.2  
@@ -86,9 +95,9 @@
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 或者使用百度盘下载
-链接：https://pan.baidu.com/s/1OjYcCap2ZGUAfT1RIlKL9A 
-提取码：rp8i 
-
+链接：https://pan.baidu.com/s/1uxtMiTuD_G7pJorUspXPQA 
+提取码：zdtw 
+ 
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
