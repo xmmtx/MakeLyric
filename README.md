@@ -18,6 +18,12 @@
 ## 更新日志  
 
 ---
+ 2019-12-29  
+    v1.2.8 
+	
+1、修复歌词制作最后显示不全问题。       
+
+---
  2019-12-28  
     v1.2.8 
 	
@@ -112,9 +118,9 @@
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 或者使用百度盘下载
-链接：https://pan.baidu.com/s/1GMyHDb6mDYUynghwjc956g 
-提取码：afoz
-
+链接：https://pan.baidu.com/s/1mCI-vuM2VHfcKtaJ93jhyQ 
+提取码：k3w0 
+ 
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
