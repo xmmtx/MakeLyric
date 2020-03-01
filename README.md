@@ -18,6 +18,12 @@
 ## 更新日志  
 
 ---
+ 2020-02-17  
+    v1.2.10
+
+1、修复QRC与KRC互转时有停顿时间转换不正确问题，感谢网友“灬纯牛奶┆不纯 گق <100***657>”的反馈。 	
+	
+---
  2019-12-29  
     v1.2.9
 	
@@ -117,7 +123,9 @@
 
 下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
-或者使用百度盘下载
+
+----------
+或者使用百度盘下载v 1.2.9
 链接：https://pan.baidu.com/s/1mCI-vuM2VHfcKtaJ93jhyQ 
 提取码：k3w0 
  
