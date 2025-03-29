@@ -47,13 +47,15 @@
 * 增加转换时可选择是否过滤qrc罗马音文件。
 * 移除了网易云歌词的输入和输出（移除原因请看上面）。
 * 修复了歌词制作的bug。[#I5FGBM](https://gitee.com/ying32/MakeLyric/issues/I5FGBM)	
-* 修复了有可能未写入[offset:]标签问题。[I4A76D](https://gitee.com/ying32/MakeLyric/issues/I4A76D)
+* 修复了有可能未写入[offset:]标签问题。[#I4A76D](https://gitee.com/ying32/MakeLyric/issues/I4A76D)
 * 移除了更新检测（不会再有更新了，所以去掉了）。
 * 移除了查看加密歌词中非qrc和krc格式的支持。
 
 ##### 本次版本下载地址：
 
-* https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.1
+* 下载地址1：https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.1
+
+* 下载地址2：[百度网盘下载](https://pan.baidu.com/s/1Gkmoss-BNuiQsNKv2dykMg?pwd=vced) 提取码: vced
 
 ----
  2020-02-17  
