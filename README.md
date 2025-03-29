@@ -51,11 +51,6 @@
 * 移除了更新检测（不会再有更新了，所以去掉了）。
 * 移除了查看加密歌词中非qrc和krc格式的支持。
 
-##### 文件hash值：
-
-* `LyricTools.exe`: sha256: `2ce143ffdaeca7f99d9f9ddb253e31542b9668b93d7bde8b685fba67109fe025`
-* `LyricTools-2.0.1.zip`: sha256: `3ce3977e3ac64662e9a0f67f34ef85aca290d16729d96f1d7f1fa46a4e19446b`
-
 ##### 本次版本下载地址：
 
 * https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.1
