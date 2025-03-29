@@ -12,7 +12,7 @@
 
 * 支持输出类型：`krc（酷狗）`、`qrc（QQ音乐）`、`trc(天天动听)`、`lrcx（酷我音乐）`、`ksc（小灰熊字幕）`、`lrc(foobar2000插件eslyric格式)`、`srt`、`smi`、`lrc`、`ssa`、`txt`。
 
-  **注：2.0.0版本移除了网易云音乐格式支持（因为他格式又变了，而且没办法测试，所以干脆移除掉了）**
+  **注：2.0.1版本移除了网易云音乐格式支持（因为他格式又变了，而且没办法测试，所以干脆移除掉了）**
 
 ----
 
@@ -33,7 +33,7 @@
 ----
 
  2025-03-29  
-    v2.0.0
+    v2.0.1
 
 ##### **特别注意：此为最后一个版本，之后将不再更新，也不接受任何反馈了，至此画上句号。**  
 
@@ -53,12 +53,12 @@
 
 ##### 文件hash值：
 
-* `LyricTools.exe`: sha256: `d3f806a3c948e3513d8ee570c0db08c789c009973ec971be766bfa0fe9345ad6`
-* `LyricTools-2.0.0.zip`: sha256: `683f4afac7c8d886b04d19054bc2ab4fc16affe7b89d0a54d2419aa48e5b9cd5`
+* `LyricTools.exe`: sha256: `2ce143ffdaeca7f99d9f9ddb253e31542b9668b93d7bde8b685fba67109fe025`
+* `LyricTools-2.0.1.zip`: sha256: `3ce3977e3ac64662e9a0f67f34ef85aca290d16729d96f1d7f1fa46a4e19446b`
 
 ##### 本次版本下载地址：
 
-* https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.0
+* https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.1
 
 ----
  2020-02-17  
@@ -164,7 +164,7 @@
 
 ## 使用方法 
 
-下载最近版本`v2.0.0`中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
+下载最近版本`v2.0.1`中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 ----------
 或者使用百度盘下载v 1.2.9
