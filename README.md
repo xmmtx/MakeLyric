@@ -1,4 +1,4 @@
-### 本工具是免费的，只此一个渠道发布，如有发现有人售卖本工具或者源码，请直接在售卖平台举报并要求卖家退钱。另外其它位置下载的请小心使用，以防被人篡改。
+### 本工具自始至终都是是`免费使用`的，`请勿用作非法用途`。`只此一个渠道发布`，如有发现有人售卖本工具或者源码，请直接在售卖平台举报并要求卖家退钱。另外其它位置下载的请小心使用，以防被人篡改。
 
 ----
 
@@ -8,8 +8,11 @@
 
 
 # LyricTools
-支持qrc、krc、trc、网易云音乐的歌词相互转，支持输出krc、qrc、trc、  
-网易云音乐、srt、smi、lrc、ksc、ssa、foobar2000插件eslyric格式    
+* 支持输入类型：`krc（酷狗）`、`qrc（QQ音乐）`、`trc(天天动听)`、`lrcx（酷我音乐）`、`ksc（小灰熊字幕）`、`lrc(foobar2000插件eslyric插件新/旧格式)`的歌词，`可相互转`换。  
+
+* 支持输出类型：`krc（酷狗）`、`qrc（QQ音乐）`、`trc(天天动听)`、`lrcx（酷我音乐）`、`ksc（小灰熊字幕）`、`lrc(foobar2000插件eslyric格式)`、`srt`、`smi`、`lrc`、`ssa`、`txt`。
+
+  **注：2.0.0版本移除了网易云音乐格式支持（因为他格式又变了，而且没办法测试，所以干脆移除掉了）**
 
 ----
 
@@ -26,6 +29,32 @@
 **如遇360或者QQ管家报“隐私”什么的警告请选择信任。因为我并没有干啥，所以我对于这些软件弹出的警告信息也很无奈。言尽于此。**
 
 ## 更新日志  
+
+ 2025-03-29  
+    v2.0.0
+
+##### **特别注意：此为最后一个版本，之后将不再更新，也不接受任何反馈了，至此画上句号。**  
+
+##### 更新内容
+
+* 完全重构了分析歌词和转换功能。
+* 增加了`lrc(foobar2000插件eslyric插件)`新格式的支持。  [#I622II](https://gitee.com/ying32/MakeLyric/issues/I622II)
+* 增加`lrcx`、`ksc`、`lrc(foobar2000插件eslyric插件新/旧格式)`输入和输出。
+* 增加转换时可选择是否过滤qrc罗马音文件。
+* 移除了网易云歌词的输入和输出（移除原因请看上面）。
+* 修复了歌词制作的bug。[#I5FGBM](https://gitee.com/ying32/MakeLyric/issues/I5FGBM)	
+* 修复了有可能未写入[offset:]标签问题。[I4A76D](https://gitee.com/ying32/MakeLyric/issues/I4A76D)
+* 移除了更新检测（不会再有更新了，所以去掉了）。
+* 移除了查看加密歌词中非qrc和krc格式的支持。
+
+##### 文件hash值：
+
+* `LyricTools.exe`: sha256: `d3f806a3c948e3513d8ee570c0db08c789c009973ec971be766bfa0fe9345ad6`
+* `LyricTools-2.0.0.zip`: sha256: `683f4afac7c8d886b04d19054bc2ab4fc16affe7b89d0a54d2419aa48e5b9cd5`
+
+##### 本次版本下载地址：
+
+* https://gitee.com/ying32/MakeLyric/releases/tag/v2.0.0
 
 ----
  2020-02-17  
@@ -131,13 +160,12 @@
 
 ## 使用方法 
 
-下载最近版本中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
+下载最近版本`v2.0.0`中的“附件： LyricToolsBin.zip”，地址：  https://gitee.com/ying32/MakeLyric/releases   
 
 ----------
 或者使用百度盘下载v 1.2.9
 链接：https://pan.baidu.com/s/1mCI-vuM2VHfcKtaJ93jhyQ 
 提取码：k3w0 
-
 
 主界面：   
 ![主界面](https://gitee.com/ying32/MakeLyric/raw/master/screenshots/1.jpg)    
